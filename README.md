@@ -1,4 +1,4 @@
-# Netflix Clone Docker Deployment
+# Task 1: Netflix Clone Docker Deployment
 
 A responsive Netflix-inspired web application containerized using Docker and deployed locally. This project demonstrates Docker fundamentals, container lifecycle management, web server deployment, and container-based application hosting.
 
